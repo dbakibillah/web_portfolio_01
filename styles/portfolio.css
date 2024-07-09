@@ -239,6 +239,7 @@ footer {
 footer input[type="text"],
 footer input[type="email"],
 footer textarea {
+    font-family: "Open Sans", sans-serif;
     width: 100%;
     margin-bottom: 24px;
     padding: 18px 30px;
